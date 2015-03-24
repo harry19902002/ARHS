@@ -1,0 +1,5 @@
+acc_comp.c是标准的EKF程序
+acc_comp2.c是采用UD分解的EKF程序
+acc_comp3.c是采用Sage-Husa的UD分解EKF程序
+acc_comp4.c是采用强跟踪滤波的UD分解EKF程序
+acc_comp5.c是采用非拓展的标准UKF滤波
